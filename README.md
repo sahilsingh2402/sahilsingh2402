@@ -1,14 +1,14 @@
-### Hi there, I'm Sahil - aka [Holy Devil](https://wickedteenager.blogspot.com/) 👋
+### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
 [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
 ---
 ## I'm an Undergradtudate Student, majoring in Computer Science and Engineering. 
 
-- 🌱 I’m learning everything which ignites my interest👨‍💻
-- 👯 I’m looking to work with people, who can help me implement my ideas in real world
+- 🌱 I’m learning things which ignites my interest💻
+- 👯 I’m looking to work with people, who can help me implement my ideas
 - 🥅 Goals: To create a brain-computer-interface (BCI) device named Alternated Augma
-- ⚡ About: I love overthinking ideas💡
+- ⚡ About: I love diving into ideas💡
 - 🔭 Work with me on this tech: [Alternated Augma](https://wickedteenager.blogspot.com/)!
-- 💬 Ask me about anything [WT](https://wickedteenager.blogspot.com/)
+- 💬 Ask me about anything [here](https://wickedteenager.blogspot.com/)
 
 ### Connect with me:
 
@@ -56,9 +56,9 @@
 
 ---
 ## Contact Me 
-Have a Project ? Think I can contribute ? Need some help ?
-Feel free to mail me : **sahilsingh2402@gmail.**
-You can also contact me via LinkedIn.
+If you want to work on [Alternated Augma](https://wickedteenager.blogspot.com/)
+Feel free to mail me: **sahilsingh2402@gmail.com**
+You can also contact with me via LinkedIn.
 
 :copyright: ReadMe Designed by Sahil Singh
 
