@@ -20,33 +20,33 @@
 
 ### Languages and Tools: 
 
-[<img align="left" alt="JAVA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="JAVA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />](https://www.java.com/)
 
-[<img align="left" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="Git" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 
-[<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
 
-[<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="HTML" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://html.com/)
 
-[<img align="left" alt="GCP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/google-cloud.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="GCP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/google-cloud.svg" />](https://cloud.google.com//)
 
-[<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
 
-[<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
 
-[<img align="left" alt="Android" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="Android" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://developer.android.com/)
 
-[<img align="left" alt="Django" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="Django" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/django.svg" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="MYSQL" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="MYSQL" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
 
-[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="UBUNTU" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ubuntu.svg" />](https://ubuntu.com/)
 
-[<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="PYCHARM" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
 
-[<img align="left" alt="FEDORA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/fedora.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="FEDORA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/fedora.svg" />](https://getfedora.org)
 
-[<img align="left" alt="NUMPY" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://wickedteenager.blogspot.com/)
+[<img align="left" alt="NUMPY" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
 
 <br />
 
