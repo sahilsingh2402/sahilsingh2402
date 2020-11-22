@@ -56,10 +56,10 @@
 
 ---
 ## Contact Me 
-If you want to work on [Alternated Augma](https://wickedteenager.blogspot.com/)
+If you want to work on Alternated Augma 
 Feel free to mail me: **sahilsingh2402@gmail.com**
-You can also contact with me via LinkedIn.
+You can also contact with me via [LinkedIn](https://www.linkedin.com/in/sahil-singh-3464551b5/).
 
-:copyright: ReadMe Designed by Sahil Singh
+:copyright: ReadMe Designed by [Sahil Singh](https://www.instagram.com/sahil_singh_2402/)
 
 ---
