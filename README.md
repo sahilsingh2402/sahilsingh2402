@@ -1,4 +1,5 @@
 ### Hi there, I'm Sahil - aka [Holy Devil](https://wickedteenager.blogspot.com/) 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Holy-Devil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-singh-3464551b5/)](https://www.linkedin.com/in/sahil-singh-3464551b5/) [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
 
 ## I'm a Undergradtudate Student, majoring in Computer Science and Engineering. My areas of interest lies in the heart of Computer Science. 
 
