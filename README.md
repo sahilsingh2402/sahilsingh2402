@@ -47,16 +47,13 @@
 ## My Skills
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sahilsingh2402/github-readme-stats)*
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Sahil Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahilsingh2402&show_icons=true&hide_border=true" />
 <a href="https://github.com/sahilsingh2402/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=material-palenight" />
 </a>    
 
-</details>
+
 <br />
 
 ## Contact Me 
