@@ -50,7 +50,7 @@
   <img align="left" alt="Sahil Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahilsingh2402&show_icons=true&hide_border=true" />
 <a href="https://github.com/sahilsingh2402/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=material-palenight" />
 </a>    
 <br />
 <br />
