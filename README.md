@@ -36,11 +36,11 @@
 
 [<img align="left" alt="MYSQL" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://wickedteenager.blogspot.com/)
 
-[<img align="left" alt="NUMPY" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://wickedteenager.blogspot.com/)
-
 [<img align="left" alt="PYCHARM" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/pycharm.svg" />](https://wickedteenager.blogspot.com/)
 
 [<img align="left" alt="PYTHON" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://wickedteenager.blogspot.com/)
+
+[<img align="left" alt="NUMPY" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://wickedteenager.blogspot.com/)
 
 <br />
 
