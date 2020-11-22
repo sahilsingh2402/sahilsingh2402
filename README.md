@@ -1,5 +1,5 @@
 ### Hi there, I'm Sahil - aka [Holy Devil](https://wickedteenager.blogspot.com/) 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Holy-Devil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-singh-3464551b5/)](https://www.linkedin.com/in/sahil-singh-3464551b5/) [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
 
 ## I'm a Undergradtudate Student, majoring in Computer Science and Engineering. My areas of interest lies in the heart of Computer Science. 
 
@@ -21,6 +21,7 @@
 ### Languages :computer: and Tools: :heart:
 
 [<img align="left" alt="Android" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/android.svg" />](https://wickedteenager.blogspot.com/)
+
 [<img align="left" alt="C" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://wickedteenager.blogspot.com/)
 
 [<img align="left" alt="CPP" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://wickedteenager.blogspot.com/)
@@ -30,7 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://wickedteenager.blogspot.com/)
 
 [<img align="left" alt="GCP" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/google-cloud.svg" />](https://wickedteenager.blogspot.com/)
-
+<br />
 [<img align="left" alt="HTML" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/html.svg" />](https://wickedteenager.blogspot.com/)
 
 [<img align="left" alt="MYSQL" width="26px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://wickedteenager.blogspot.com/)
@@ -43,7 +44,6 @@
 
 <br />
 
----
 ## My Skills
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sahilsingh2402/github-readme-stats)*
 
@@ -57,8 +57,7 @@
 </a>    
 
 </details>
-
----
+<br />
 
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
