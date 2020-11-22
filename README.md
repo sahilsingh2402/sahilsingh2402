@@ -50,14 +50,14 @@
   <img align="left" alt="Sahil Singh GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sahilsingh2402&show_icons=true&hide_border=true" />
 <a href="https://github.com/sahilsingh2402/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=material-palenight" />
-</a>    
-<br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=material-palenight" />
+</a> 
 
+---
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **sahilsingh2402@gmail.**
-You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
+Feel free to mail me : **sahilsingh2402@gmail.**
+You can also contact me via LinkedIn.
 
 :copyright: ReadMe Designed by Sahil Singh
 
