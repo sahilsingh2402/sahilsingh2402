@@ -54,8 +54,6 @@
 </a>    
 
 
-<br />
-
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **sahilsingh2402@gmail.**
