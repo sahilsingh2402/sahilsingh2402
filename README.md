@@ -1,14 +1,14 @@
 ### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
 [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
 ---
-## I'm an Undergradtudate Student, majoring in Computer Science and Engineering. 
+## I'm an Undergraduate Student, majoring in Computer Science and Engineering. 
 
-- 🌱 I’m learning things which ignites my interest💻
-- 👯 I’m looking to work with people, who can help me implement my ideas
-- 🥅 Goals: To create a brain-computer-interface (BCI) device named Alternated Augma
-- ⚡ About: I love diving into ideas💡
-- 🔭 Work with me on this tech: [Alternated Augma](https://wickedteenager.blogspot.com/)!
-- 💬 Ask me about anything [here](https://wickedteenager.blogspot.com/)
+- 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
+- 👯  Inetersted in brainstorming ideas and working with people of similar interests.
+- 🥅  Idea: To create a brain-computer-interface (BCI) device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
+- ⚡   About: Deep dive into new ideas to build state-of-the-art technologies 💡
+- 🔭  Behind the scene on [Alternated Augma](https://wickedteenager.blogspot.com/)!
+- 💬  Oh! I write blogs too! [here](https://wickedteenager.blogspot.com/)
 
 ### Connect with me:
 
