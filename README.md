@@ -52,8 +52,10 @@
 
 [<img align="left" alt="NUMPY" width="60px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
 
-<br/>
-<br/>
+<br />
+
+---
+<br />
 
 ## My Skills
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sahilsingh2402/github-readme-stats)*
