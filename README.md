@@ -52,7 +52,7 @@
 
 [<img align="left" alt="FEDORA" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/fedora.svg" />](https://getfedora.org)
 
-[<img align="left" alt="NUMPY" width="48px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
+[<img align="left" alt="NUMPY" width="60px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/numpy.svg" />](https://numpy.org/)
 
 <br />
 
