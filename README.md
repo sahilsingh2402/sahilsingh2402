@@ -4,7 +4,7 @@
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering. 
 
 - 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
-- 👯  Inetersted in brainstorming ideas and working with people of similar interests.
+- 👯  Intersted in brainstorming ideas and working with people of similar interests.
 - 🥅  Idea: To create a brain-computer-interface (BCI) device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
 - ⚡   About: Deep dive into new ideas to build state-of-the-art technologies 💡
 - 🔭  Behind the scene on [Alternated Augma](https://wickedteenager.blogspot.com/)!
