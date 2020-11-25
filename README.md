@@ -42,7 +42,7 @@
 
 [<img align="left" alt="Spyder" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/spyder.png" />](https://www.spyder-ide.org/)
 
-[<img align="left" alt="IPython" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ip.jpg" />](https://ipython.org/)
+[<img align="left" alt="IPython" width="25px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/ip.jpg" />](https://ipython.org/)
 
 [<img align="left" alt="MYSQL" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
 
