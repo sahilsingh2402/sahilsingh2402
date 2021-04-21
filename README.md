@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
 <h3 align="center">An Undergrad Techie</h3>
-[![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
+
 <p align="left"> <a href="https://github.com/sahilsingh2402/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsingh2402web&theme=onedark" alt="sahilsingh2402" /></a> </p>
 ---
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering. 
