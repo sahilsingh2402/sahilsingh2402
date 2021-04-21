@@ -1,19 +1,28 @@
 ### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
+<h3 align="center">An Undergrad Techie</h3>
 [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
+<p align="left"> <a href="https://github.com/sahilsingh2402/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsingh2402web&theme=onedark" alt="sahilsingh2402" /></a> </p>
 ---
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering. 
 
 - 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
+
 - 👯  Intersted in brainstorming ideas and working with people of similar interests.
+
+- 👨‍💻  I’m currently learning **NodeJS CLI Framework**
+
 - 🥅  Idea: To create a brain-computer-interface (BCI) device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
-- ⚡   About: Deep dive into new ideas to build state-of-the-art technologies 💡
+
+- ⚡  About: Deep dive into new ideas to build state-of-the-art technologies 💡
+
 - 🔭  Behind the scene on [Alternated Augma](https://wickedteenager.blogspot.com/)!
+
 - 💬  Oh! I write [blogs](https://wickedteenager.blogspot.com/) too!
 
 ### Connect with me:
 
 [<img align="left" alt="sahilsingh2402 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SahilSi99148897)
-[<img align="left" alt="sahilsingh2402 | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sahil-singh-3464551b5/)
+[<img align="left" alt="sahilsingh2402 | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sahilsingh24/)
 [<img align="left" alt="sahilsingh2402 | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sahil_singh_2402/)
 
 <br />
@@ -69,8 +78,8 @@
 ## Contact Me 
 If you want to work on Alternated Augma 
 Feel free to mail me: **sahilsingh2402@gmail.com**
-You can also contact with me via [LinkedIn](https://www.linkedin.com/in/sahil-singh-3464551b5/).
+You can also contact with me via [LinkedIn](https://www.linkedin.com/in/sahilsingh24/).
 
-:copyright: ReadMe Designed by [Sahil Singh](https://www.instagram.com/sahil_singh_2402/)
+:copyright: ReadMe Designed by [Sahil Singh](https://www.linkedin.com/in/sahilsingh24/)
 
 ---
