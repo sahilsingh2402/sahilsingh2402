@@ -9,7 +9,7 @@
 
 - 👯  Intersted in brainstorming ideas and working with people of similar interests.
 
-- 👨‍💻  I’m currently learning **NodeJS CLI Framework**
+- 💻  I’m currently learning **Flutter**
 
 - 🥅  Idea: To create a brain-computer-interface (BCI) device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
 
