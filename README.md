@@ -1,5 +1,5 @@
 ### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402&label=Profile%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402&label=Profile%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p> [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilsingh2402@gmail.com)](mailto:sahilsingh2402@gmail.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
