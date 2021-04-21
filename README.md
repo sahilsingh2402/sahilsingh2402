@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
 <h3 align="center">An Undergrad Techie</h3>
 
-<p align="left"> <a href="https://github.com/sahilsingh2402/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsingh2402web&theme=onedark" alt="sahilsingh2402" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ## I'm an Undergraduate Student, majoring in Computer Science and Engineering. 
 
