@@ -7,11 +7,11 @@
 
 - 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
 
-- 👯  Intersted in brainstorming ideas and working with people of similar interests.
+- 👯  Interested in brainstorming ideas and working with people of similar interests.
 
 - 💻  I’m currently learning **Flutter**
 
-- 🥅  Idea: To create a brain-computer-interface (BCI) device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
+- 🥅  Idea: To create a **brain-computer-interface (BCI)** device (Alternated Augma, similar to Alter Ego) because I believe it would expand human intelligence.
 
 - ⚡  About: Deep dive into new ideas to build state-of-the-art technologies 💡
 
