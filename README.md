@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/6874747073.gif" alt="sahilsingh2402" /> </p>
-
 ## Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402&label=Profile%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p> <p align="left"> 
 
@@ -39,3 +37,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-sahilsingh24-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SahilSi41158493) [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:sahilsingh2402@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@sahilsingh2402-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_singh_2402/) [![Linkedin Badge](https://img.shields.io/badge/-sahilsingh24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh24/) 
 
 ---
+<p align="center"> <img src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/6874747073.gif" alt="sahilsingh2402" /> </p>
