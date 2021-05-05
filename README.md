@@ -26,7 +26,7 @@
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=sahilsingh2402&count_private=true&show_icons=true&theme=buefy" alt="ss2402" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=buefy&hide=ruby" alt="ss2402" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2402&layout=compact&theme=buefy" alt="ss2402" height="165" />
     <img src="https://github-profile-trophy.vercel.app/?username=sahilsingh2402&layout=compact&theme=buefy" alt="ss2402" height="129" />
  </p>
 
