@@ -34,7 +34,7 @@
 
 ## Connect with me
 
-[![Twitter Badge](https://img.shields.io/badge/-sahilsingh24-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SahilSi41158493) [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:sahilsingh2402@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@sahilsingh2402-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_singh_2402/) [![Linkedin Badge](https://img.shields.io/badge/-sahilsingh24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh24/) 
+[![Twitter Badge](https://img.shields.io/badge/-sahilsingh24-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SahilSi41158493) [![Gmail Badge](https://img.shields.io/badge/-sahilsingh2402-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:sahilsingh2402@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@sahil_singh_2402-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil_singh_2402/) [![Linkedin Badge](https://img.shields.io/badge/-sahilsingh24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh24/) 
 
 ---
 
