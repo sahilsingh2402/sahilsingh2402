@@ -1,4 +1,4 @@
-## Hi there, I'm Sahil - aka [Wicked Teenager](https://wickedteenager.blogspot.com/) 👋
+## Hi there, I'm Sahil👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402&label=Profile%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p> <p align="left"> 
 
 ---
