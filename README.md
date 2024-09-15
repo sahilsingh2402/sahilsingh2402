@@ -6,7 +6,7 @@
 
 - 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
 - 👯  Interested in brainstorming ideas and working with people of similar interests.
-- 💻  I’m currently exploring **Deep Learning**
+- 💻  I’m currently exploring **Quantum Science**
 - 🥅  Idea: To create a **brain-computer-interface (BCI)** device (Alternated Augma, similar to Alter Ego) to enhance human intelligence.
 - ⚡  About: Deep dive into new ideas to build state-of-the-art technologies 💡
 
