@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402&label=Profile%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p> <p align="left"> 
 
 ---
-## I'm a Master's Student, majoring in Electrical Engineering and Computer Science working on Quantum Computation. 
+## I'm a Master's Student, majoring in Electronics Engineering, EECS working on Quantum Computation. 
 
 - 🌱  Keen on learning interesting concepts in computer science, astrophysics, and human psychology.
 - 👯  Interested in brainstorming ideas and working with people of similar interests.
